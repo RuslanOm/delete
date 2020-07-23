@@ -40,5 +40,9 @@
 9. Описаны технические мощности, на которых авторы проверяли свои наработки.
 10. Есть авторская реализация на Python3. [repo](https://github.com/svip-lab/PlanarReconstruction)
 
+### PlaneRecover (TODO)
+
+## Не нейросетевой подоход
+
 
 
